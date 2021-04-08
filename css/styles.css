@@ -35,3 +35,8 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+
+#buttons {
+    font-family: 'Londrina Solid', cursive;
+    font-size: 35px
+}
